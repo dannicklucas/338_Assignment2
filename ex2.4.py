@@ -45,7 +45,7 @@ def main():
     
 
 # write data to a new json file 
-    with open("ex2.5.json", "w") as outfile:
+    with open("ex2.4.json", "w") as outfile:
         json.dump(sorted_arrays, outfile) 
 
 
